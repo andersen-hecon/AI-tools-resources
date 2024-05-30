@@ -4,4 +4,22 @@ format: html
 editor: visual
 ---
 
+## What is a Large Language Model?
+
 ## Overview of AI tools
+
+### Writing tools
+
+### Research tools
+
+### Coding tools
+
+## Using local language models
+
+## Prompting
+
+### What makes a good prompt?
+
+### How to evaluate a prompt?
+
+### Meta prompting
