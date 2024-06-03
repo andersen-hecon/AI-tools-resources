@@ -10,8 +10,8 @@
     "objectID": "AI-presentation.html#agenda-and-goals",
     "href": "AI-presentation.html#agenda-and-goals",
     "title": "AI",
-    "section": "agenda and goals",
-    "text": "agenda and goals\n\nWhat is an LLM and what is it doing?\nhow to wrtie effective prompts\nHow to evaluate your prompting strategy\nAugmenting prompts with context\nTools"
+    "section": "Agenda and Goals",
+    "text": "Agenda and Goals"
   },
   {
     "objectID": "AI-presentation.html#tools-1",
@@ -63,10 +63,45 @@
     "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
   },
   {
+    "objectID": "ai-guidelines.html",
+    "href": "ai-guidelines.html",
+    "title": "Guidelines for using generative AI",
+    "section": "",
+    "text": "The purpose of an AI is to assist you, not to replace you. To help ensure that the AI is only an assistant it is important to not let the AI think for you. Instead, let it do the boring or tedious work of your task.\nFor example,"
+  },
+  {
+    "objectID": "ai-guidelines.html#use-the-ai-to-do-the-boring-work",
+    "href": "ai-guidelines.html#use-the-ai-to-do-the-boring-work",
+    "title": "Guidelines for using generative AI",
+    "section": "",
+    "text": "The purpose of an AI is to assist you, not to replace you. To help ensure that the AI is only an assistant it is important to not let the AI think for you. Instead, let it do the boring or tedious work of your task.\nFor example,"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI Tools and Resources",
     "section": "",
-    "text": "To come"
+    "text": "My AI presentation"
+  },
+  {
+    "objectID": "index.html#mini-presentations",
+    "href": "index.html#mini-presentations",
+    "title": "AI Tools and Resources",
+    "section": "",
+    "text": "My AI presentation"
+  },
+  {
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "AI Tools and Resources",
+    "section": "Tools",
+    "text": "Tools\n\nLM Studio\nJan\nGPT4ALL\nLlama.cpp"
+  },
+  {
+    "objectID": "index.html#models",
+    "href": "index.html#models",
+    "title": "AI Tools and Resources",
+    "section": "Models",
+    "text": "Models\nThere are a few small language models that I particularly like, in part because I have benchmarked them against various models.\n\nPhi-3 is a surprisingly good model, despite its small size. I find that I usually turn to it when I want to a run a model on my desktop.\nLlama-3 has, rightly, gotten a lot of buzz since it was launched because of its overall strong performance on various benchmarks. However, I have been less impressed with it in my small experiments using LM Studio’s Playground feature."
   }
 ]
