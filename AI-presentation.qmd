@@ -1,27 +1,70 @@
 ---
 title: "AI"
-format: revealjs
-editor: visual
+format: 
+  revealjs:
+    toc: true
+    template-partials: 
+      - toc-slide.html
+    # include-after-body: toc-add.html
 ---
+
+# what does a L1 heading do?
+sdfgsadfas
 
 ## How to use AI effectively
 
-AI is unlikely to replace any of us, but someone who knows AI could replace any of us. 
+AI is unlikely to replace any of us, but someone who knows AI could replace any of us.
 
 so let's learn how to use AI effectively
 
 ## agenda and goals
 
-- What is an LLM and what is it doing?
-- how to wrtie effective prompts
-- How to evaluate your prompting strategy
-- Augmenting prompts with context
-- Tools
+-   What is an LLM and what is it doing?
+-   how to wrtie effective prompts
+-   How to evaluate your prompting strategy
+-   Augmenting prompts with context
+-   Tools
+
+```{=html}
+<div id='toc'></div>
+```
+
+# What is an LLM and what is it doing?
+
+# How to write effective prompts
+
+# How to evaluate your prompting strategy
+
+# Augmenting prompts with context
+
+# Tools
 
 ## Tools
 
-- Most people think of ChatGPT, Bard, or Copilot when they hear AI
-- Large and vibrant open source community
+-   Most people think of ChatGPT, Bard, or Copilot when they hear AI
+-   Large and vibrant open source community
+
+## Alterantive cloud-based LLMs
+
+## Running local LLMs
+- Tools for local LLMs
+  - LM Studio
+  - llama.cpp
+  - GPT4ALL
+  - Ollama
+  - Jan
+
+## Local LLM choices
+- I manage my local models with LM Studio
+- Experiment in their model laboratory too
+  - Gives the same prompt to multiple different models
+- Choices about models
+  - Which model to use?
+  - Which version to use?
+  - Which quantization to use?
+  - These are all tricky questions and none of them have an easy or straightforward answer
+  
+
 
 
 ## Quarto
