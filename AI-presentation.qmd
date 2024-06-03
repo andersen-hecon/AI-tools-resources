@@ -4,6 +4,26 @@ format: revealjs
 editor: visual
 ---
 
+## How to use AI effectively
+
+AI is unlikely to replace any of us, but someone who knows AI could replace any of us. 
+
+so let's learn how to use AI effectively
+
+## agenda and goals
+
+- What is an LLM and what is it doing?
+- how to wrtie effective prompts
+- How to evaluate your prompting strategy
+- Augmenting prompts with context
+- Tools
+
+## Tools
+
+- Most people think of ChatGPT, Bard, or Copilot when they hear AI
+- Large and vibrant open source community
+
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
