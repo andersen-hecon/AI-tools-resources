@@ -63,24 +63,10 @@
     "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
   },
   {
-    "objectID": "index.html#overview-of-ai-tools",
-    "href": "index.html#overview-of-ai-tools",
-    "title": "Overview",
-    "section": "Overview of AI tools",
-    "text": "Overview of AI tools\n\nWriting tools\n\n\nResearch tools\n\n\nCoding tools"
-  },
-  {
-    "objectID": "index.html#using-local-language-models",
-    "href": "index.html#using-local-language-models",
-    "title": "Overview",
-    "section": "Using local language models",
-    "text": "Using local language models"
-  },
-  {
-    "objectID": "index.html#prompting",
-    "href": "index.html#prompting",
-    "title": "Overview",
-    "section": "Prompting",
-    "text": "Prompting\n\nWhat makes a good prompt?\n\n\nHow to evaluate a prompt?\n\n\nMeta prompting"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Tools and Resources",
+    "section": "",
+    "text": "To come"
   }
 ]
