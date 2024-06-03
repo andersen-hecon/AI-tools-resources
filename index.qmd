@@ -1,7 +1,25 @@
 ---
 title: "AI Tools and Resources"
-format: html
+format: 
+  html
+    
 editor: visual
 ---
 
-To come
+## Mini-presentations
+
+-   [My AI presentation](AI-presentation.qmd)
+
+## Tools
+
+-   [LM Studio](https://www.lmstudio.ai)
+-   [Jan](https://www.jan.ai)
+-   [GPT4ALL](https://gpt4all.io/)
+-   [Llama.cpp](https://github.com/ggerganov/llama.cpp)
+
+## Models
+
+There are a few small language models that I particularly like, in part because I have benchmarked them against various models.
+
+-   [Phi-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) is a surprisingly good model, despite its small size. I find that I usually turn to it when I want to a run a model on my desktop.
+-   [Llama-3]() has, rightly, gotten a lot of buzz since it was launched because of its overall strong performance on various benchmarks. However, I have been less impressed with it in my small experiments using LM Studio's `Playground` feature.

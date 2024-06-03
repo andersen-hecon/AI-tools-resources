@@ -8,22 +8,19 @@ format:
     # include-after-body: toc-add.html
 ---
 
-# what does a L1 heading do?
-sdfgsadfas
-
 ## How to use AI effectively
 
 AI is unlikely to replace any of us, but someone who knows AI could replace any of us.
 
 so let's learn how to use AI effectively
 
-## agenda and goals
+## Agenda and Goals
 
--   What is an LLM and what is it doing?
--   how to wrtie effective prompts
--   How to evaluate your prompting strategy
--   Augmenting prompts with context
--   Tools
+<!-- -   What is an LLM and what is it doing? -->
+<!-- -   how to wrtie effective prompts -->
+<!-- -   How to evaluate your prompting strategy -->
+<!-- -   Augmenting prompts with context -->
+<!-- -   Tools -->
 
 ```{=html}
 <div id='toc'></div>

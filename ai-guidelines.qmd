@@ -1,0 +1,11 @@
+---
+title: "Guidelines for using generative AI"
+format: html
+editor: visual
+---
+
+## Use the AI to do the boring work
+The purpose of an AI is to assist **you**, not to replace you. To help ensure that the AI is only an assistant it is important to not let the AI think for you. Instead, let it do the boring or tedious work of your task.
+
+For example, 
+
