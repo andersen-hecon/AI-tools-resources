@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "AI-presentation.html#how-to-use-ai-effectively",
+    "href": "AI-presentation.html#how-to-use-ai-effectively",
+    "title": "AI",
+    "section": "How to use AI effectively",
+    "text": "How to use AI effectively\nAI is unlikely to replace any of us, but someone who knows AI could replace any of us.\nso let’s learn how to use AI effectively"
+  },
+  {
+    "objectID": "AI-presentation.html#agenda-and-goals",
+    "href": "AI-presentation.html#agenda-and-goals",
+    "title": "AI",
+    "section": "agenda and goals",
+    "text": "agenda and goals\n\nWhat is an LLM and what is it doing?\nhow to wrtie effective prompts\nHow to evaluate your prompting strategy\nAugmenting prompts with context\nTools"
+  },
+  {
+    "objectID": "AI-presentation.html#tools",
+    "href": "AI-presentation.html#tools",
+    "title": "AI",
+    "section": "Tools",
+    "text": "Tools\n\nMost people think of ChatGPT, Bard, or Copilot when they hear AI\nLarge and vibrant open source community"
+  },
+  {
     "objectID": "AI-presentation.html#quarto",
     "href": "AI-presentation.html#quarto",
     "title": "AI",
