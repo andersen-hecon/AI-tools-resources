@@ -14,11 +14,32 @@
     "text": "agenda and goals\n\nWhat is an LLM and what is it doing?\nhow to wrtie effective prompts\nHow to evaluate your prompting strategy\nAugmenting prompts with context\nTools"
   },
   {
-    "objectID": "AI-presentation.html#tools",
-    "href": "AI-presentation.html#tools",
+    "objectID": "AI-presentation.html#tools-1",
+    "href": "AI-presentation.html#tools-1",
     "title": "AI",
     "section": "Tools",
     "text": "Tools\n\nMost people think of ChatGPT, Bard, or Copilot when they hear AI\nLarge and vibrant open source community"
+  },
+  {
+    "objectID": "AI-presentation.html#alterantive-cloud-based-llms",
+    "href": "AI-presentation.html#alterantive-cloud-based-llms",
+    "title": "AI",
+    "section": "Alterantive cloud-based LLMs",
+    "text": "Alterantive cloud-based LLMs"
+  },
+  {
+    "objectID": "AI-presentation.html#running-local-llms",
+    "href": "AI-presentation.html#running-local-llms",
+    "title": "AI",
+    "section": "Running local LLMs",
+    "text": "Running local LLMs\n\nTools for local LLMs\n\nLM Studio\nllama.cpp\nGPT4ALL\nOllama\nJan"
+  },
+  {
+    "objectID": "AI-presentation.html#local-llm-choices",
+    "href": "AI-presentation.html#local-llm-choices",
+    "title": "AI",
+    "section": "Local LLM choices",
+    "text": "Local LLM choices\n\nI manage my local models with LM Studio\nExperiment in their model laboratory too\n\nGives the same prompt to multiple different models\n\nChoices about models\n\nWhich model to use?\nWhich version to use?\nWhich quantization to use?\nThese are all tricky questions and none of them have an easy or straightforward answer"
   },
   {
     "objectID": "AI-presentation.html#quarto",
