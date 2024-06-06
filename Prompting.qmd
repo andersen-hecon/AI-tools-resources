@@ -1,0 +1,24 @@
+---
+title: "Prompting"
+format: revealjs
+---
+
+## Prompting
+- Process of telling a generative AI what you want it to do
+- Is not the same as a Google search
+- More sophisticated GPTs can handle some of the prompting for you (e.g. [Consensus](https://chatgpt.com/g/g-bo0FiWLY7-consensus))
+
+## Evaluating your prompts
+Evaluating a prompt entails reviewing and considering the output the prompt produced
+- Was the answer accurate?
+- Was the tone appropriate?
+- What about the length?
+
+## The RACCCA framework
+Developed by Andrew Maynar
+- Relevance
+- Accuracy
+- Completeness
+- Clarity
+- Coherence
+- Appropriateness
