@@ -77,6 +77,27 @@
     "text": "The purpose of an AI is to assist you, not to replace you. To help ensure that the AI is only an assistant it is important to not let the AI think for you. Instead, let it do the boring or tedious work of your task.\nFor example,"
   },
   {
+    "objectID": "Prompting.html#prompting",
+    "href": "Prompting.html#prompting",
+    "title": "Prompting",
+    "section": "Prompting",
+    "text": "Prompting\n\nProcess of telling a generative AI what you want it to do\nIs not the same as a Google search\nMore sophisticated GPTs can handle some of the prompting for you (e.g. Consensus)"
+  },
+  {
+    "objectID": "Prompting.html#evaluating-your-prompts",
+    "href": "Prompting.html#evaluating-your-prompts",
+    "title": "Prompting",
+    "section": "Evaluating your prompts",
+    "text": "Evaluating your prompts\nEvaluating a prompt entails reviewing and considering the output the prompt produced - Was the answer accurate? - Was the tone appropriate? - What about the length?"
+  },
+  {
+    "objectID": "Prompting.html#the-raccca-framework",
+    "href": "Prompting.html#the-raccca-framework",
+    "title": "Prompting",
+    "section": "The RACCCA framework",
+    "text": "The RACCCA framework\nDeveloped by Andrew Maynar - Relevance - Accuracy - Completeness - Clarity - Coherence - Appropriateness"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI Tools and Resources",
